@@ -42,8 +42,8 @@
 
   <section id="contacto">
     <h2>Contacto</h2>
-    <p>Correo electrónico: contacto@abcompany.com</p>
-    <p>Teléfono: +34 123 456 789</p>
+    <p>Correo electrónico: abrahamgx384@gmail.com</p>
+    <p>Teléfono: +52 2462439518</p>
   </section>
 </main>
 
