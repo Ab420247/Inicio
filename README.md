@@ -6,7 +6,7 @@
 
 
 
-Bienvenidos a **Ab Company**, tu socio estratégico en el universo de los activos digitales y los juegos *Play-to-Earn* (P2E). Somos un equipo de entusiastas y expertos en la tecnología blockchain, especializados en la economía de los NFTs y el ecosistema de Axie Infinity.
+## Bienvenidos a **Ab Company**, tu socio estratégico en el universo de los activos digitales y los juegos *Play-to-Earn* (P2E). Somos un equipo de entusiastas y expertos en la tecnología blockchain, especializados en la economía de los NFTs y el ecosistema de Axie Infinity.
 
 Nuestra pasión es explorar y maximizar las oportunidades que ofrece la Web3, ayudando a nuestra comunidad a navegar este emocionante espacio con confianza.
 
