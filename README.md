@@ -1,6 +1,6 @@
 # Ab Company - Blockchain y Web3
 
-![Encabezado/Banner de la Compañía](URL_DE_TU_IMAGEN_BANNER) ## Quiénes Somos
+![Encabezado/Banner de la Compañía]![Screenshot_2023-08-17-02-53-47-322_com.instagram.android~2.jpg](https://github.com/user-attachments/assets/c96b35a4-aaef-4d84-9371-16d7abfe21ef
 
 Bienvenidos a **[Nombre de tu Compañía]**, tu socio estratégico en el universo de los activos digitales y los juegos *Play-to-Earn* (P2E). Somos un equipo de entusiastas y expertos en la tecnología blockchain, especializados en la economía de los NFTs y el ecosistema de Axie Infinity.
 
