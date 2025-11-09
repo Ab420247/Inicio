@@ -1,8 +1,13 @@
 # Ab Company - Blockchain y Web3
 
-![Encabezado/Banner de la Compañía] Screenshot_2023-08-17-02-53-47-322_com.instagram.android~2.jpg](https://github.com/user-attachments/assets/c96b35a4-aaef-4d84-9371-16d7abfe21ef
+> ![Screenshot_2023-08-17-02-53-47-322_com.instagram.android~2.jpg](https://github.com/user-attachments/assets/c96b35a4-aaef-4d84-9371-16d7abfe21ef)
+> 
+> 
 
-Bienvenidos a **[Nombre de tu Compañía]**, tu socio estratégico en el universo de los activos digitales y los juegos *Play-to-Earn* (P2E). Somos un equipo de entusiastas y expertos en la tecnología blockchain, especializados en la economía de los NFTs y el ecosistema de Axie Infinity.
+
+
+## Bienvenidos a **Ab Company**, 
+tu socio estratégico en el universo de los activos digitales y los juegos *Play-to-Earn* (P2E). Somos un equipo de entusiastas y expertos en la tecnología blockchain, especializados en la economía de los NFTs y el ecosistema de Axie Infinity.
 
 Nuestra pasión es explorar y maximizar las oportunidades que ofrece la Web3, ayudando a nuestra comunidad a navegar este emocionante espacio con confianza.
 
@@ -38,15 +43,10 @@ Creemos en el poder de la comunidad. Nuestro programa de becas (delegación de A
 
 Nuestra misión es democratizar el acceso a la economía Web3, creando oportunidades tangibles a través de los NFTs y los juegos *Play-to-Earn*. Buscamos construir una comunidad sólida, rentable y educada en el espacio blockchain.
 
-## Únete a Nuestra Comunidad
-
-La revolución Web3 se construye en comunidad. Síguenos en nuestras redes sociales para enterarte de las últimas noticias, nuevas becas y oportunidades de inversión.
-
-* **Discord:** [Enlace a tu Servidor de Discord]
-* **Twitter:** [Enlace a tu Perfil de Twitter]
-* **Sitio Web:** [Enlace a tu Sitio Web]
+La revolución Web3 se construye en comunidad. Síguenos para enterarte de las últimas noticias, nuevas becas y oportunidades de inversión.
+* **Sitio Web:** https://ipfs.io/ipns/k51qzi5uqu5dlzcfppcrtslrbbix3mbbm3oprv9x4b8huoszva1wrjko08dlfn
 
 ---
 
-**Descargo de Responsabilidad:** La inversión en criptomonedas y NFTs es volátil y conlleva un riesgo financiero significativo. Por favor, realiza tu propia investigación (DYOR) antes de tomar cualquier decisión de inversión. [Nombre de tu Compañía] no se hace responsable por pérdidas financieras.
+**Descargo de Responsabilidad:** La inversión en criptomonedas y NFTs es volátil y conlleva un riesgo financiero significativo. Por favor, realiza tu propia investigación (DYOR) antes de tomar cualquier decisión de inversión. Ab Company no se hace responsable por pérdidas financieras.
 
