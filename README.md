@@ -44,7 +44,6 @@ Creemos en el poder de la comunidad. Nuestro programa de becas (delegación de A
 Nuestra misión es democratizar el acceso a la economía Web3, creando oportunidades tangibles a través de los NFTs y los juegos *Play-to-Earn*. Buscamos construir una comunidad sólida, rentable y educada en el espacio blockchain.
 
 La revolución Web3 se construye en comunidad. Síguenos para enterarte de las últimas noticias, nuevas becas y oportunidades de inversión.
-* **Sitio Web:** 
 
 ---
 
